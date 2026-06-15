@@ -416,7 +416,7 @@ display: inline-block;
   background-color: brown;
 }
 .settings-box .option-box .colors-list li:last-child{
-  background-color: orange;
+  background-color: yellow;
 }
 
 .settings-box .option-box .yes,
